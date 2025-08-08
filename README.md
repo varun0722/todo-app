@@ -6,7 +6,6 @@ A simple and responsive Todo App built as part of a frontend development project
 
 ## 🔗 Links
 
-- 🔍 **Project Repository**: [Todo App on GitHub](https://github.com/smthari/Frontend-Projects/tree/master/Todo-app)  
 - 🌐 **Live Demo**: [View Todo App Live](https://responsive-todoapp.netlify.app/)  
 
 ---
